@@ -7,8 +7,8 @@
     <ProjectGuid>{0C002313-380D-49F6-B611-CD57374E2F22}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>derive</RootNamespace>
-    <AssemblyName>derive</AssemblyName>
+    <RootNamespace>integrales</RootNamespace>
+    <AssemblyName>integrales</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -31,6 +31,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>derive.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
