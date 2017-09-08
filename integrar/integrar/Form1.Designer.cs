@@ -46,7 +46,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(188, 53);
+            this.textBox1.Location = new System.Drawing.Point(121, 41);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(163, 20);
             this.textBox1.TabIndex = 0;
@@ -74,7 +74,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(138, 93);
+            this.textBox2.Location = new System.Drawing.Point(129, 94);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(433, 20);
             this.textBox2.TabIndex = 5;
@@ -85,16 +85,16 @@
             this.textBox3.Location = new System.Drawing.Point(94, 93);
             this.textBox3.Margin = new System.Windows.Forms.Padding(2);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(39, 20);
+            this.textBox3.Size = new System.Drawing.Size(21, 20);
             this.textBox3.TabIndex = 6;
             this.textBox3.Text = "dx =";
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(151, 53);
+            this.textBox4.Location = new System.Drawing.Point(94, 94);
             this.textBox4.Margin = new System.Windows.Forms.Padding(2);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(30, 20);
+            this.textBox4.Size = new System.Drawing.Size(39, 20);
             this.textBox4.TabIndex = 7;
             this.textBox4.Text = "F(x)=";
             this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
@@ -128,7 +128,7 @@
             // 
             // textBox7
             // 
-            this.textBox7.Location = new System.Drawing.Point(345, 53);
+            this.textBox7.Location = new System.Drawing.Point(281, 41);
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(18, 20);
             this.textBox7.TabIndex = 10;

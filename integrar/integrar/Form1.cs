@@ -61,7 +61,7 @@ namespace derive
                     else
                     {
                         textBox2.Text = Convert.ToString(integrar(funcion));
-                        resultado = funcionA - funcionB;
+                        resultado = funcionB - funcionA;
                         result =  Convert.ToString(resultado);
                         textBox10.Text=Convert.ToString(result);
                         funcionA = 0;
